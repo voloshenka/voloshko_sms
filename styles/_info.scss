@@ -1,0 +1,109 @@
+.info{
+  padding-top: 100px;
+
+
+
+
+}
+  
+  
+  &__sms {
+    padding-top: 90px;
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    &-images {
+      & img {
+          position: relative;
+          margin-top: 60px;
+      }
+  }
+    &-card {
+      padding-top: 150px;
+  }
+
+  }
+
+
+
+
+
+
+
+  &__description {
+      &-under {
+          font-family: 'Monsterrat', sans-serif;
+          font-weight: 400;
+          font-size: 22px;
+          line-height: 27px;
+          color: #2C4058;
+          text-transform: uppercase;
+      }
+  
+      &-title {
+          font-family: 'Monsterrat', sans-serif;
+          font-weight: 700;
+          font-size: 36px;
+          line-height: 44px;
+          color: #2C4058;
+          text-transform: uppercase;
+          text-align: center;
+      }
+  
+      &-text {
+          padding-top: 20px;
+          font-family: 'Open Sans', sans-serif;
+          font-size: 18px;
+          line-height: 30px;
+          color: #2C4058;
+      }
+  
+      &-button {
+          margin-top: 40px;
+      }
+  
+     
+          & a {
+              font-family: 'Open Sans', sans-serif;
+              font-style: italic;
+              font-size: 15px;
+              line-height: 20px;
+              font-weight: 700;
+              color: #000;
+          }
+  
+      }
+  
+
+  
+      
+  
+
+
+  .commerce-bg {
+      width: 585px;
+      height: 470px;
+      background-color: #7E5AFF;
+      position: absolute;
+      right: 0;
+      z-index: -1;
+  }
+
+  &__commerce {
+      padding-top: 90px;
+      display: flex;
+      gap: 50px;
+
+      &-card {
+          padding-top: 150px;
+      }
+
+      &-images {
+          & img {
+              position: relative;
+              margin-top: 60px;
+          }
+      }
+  }
+  
+
