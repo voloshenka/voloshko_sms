@@ -20,6 +20,7 @@
   
   &__body {
     min-height: 100%;
+    font-family: 'Monsterrat', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -62,6 +63,8 @@
   }
   &__text {
     font-size: 18px;
+    word-spacing: 6px;
+    line-height: 1.5em;
     margin: 0px 0px 1em 0px;
   }
  } 

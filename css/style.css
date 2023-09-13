@@ -237,7 +237,7 @@
 }
 
 .news {
-  background-image: url(../../assets/img/news_img/news_bg.png);
+  background-image: url(../assets/img/news_img/news_bg.png);
   background-size: cover;
   height: 100%;
   margin-top: 150px;
@@ -272,6 +272,7 @@
 }
 .popup__body {
   min-height: 100%;
+  font-family: "Monsterrat", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -314,6 +315,8 @@
 }
 .popup__text {
   font-size: 18px;
+  word-spacing: 6px;
+  line-height: 1.5em;
   margin: 0px 0px 1em 0px;
 }
 
