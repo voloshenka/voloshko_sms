@@ -11,7 +11,7 @@ let mainSwiper = new Swiper(".main-swiper", {
     loop: true,
   });
 
-let newsSwiper = new Swiper(".news-swiper", {
+let newsSwiper = new Swiper(".projects-swiper", {
   slidesPerView: 3,
   spaceBetween: 30,
   pagination: {

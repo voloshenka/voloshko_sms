@@ -34,14 +34,14 @@
 
 
 
-.news-swiper {
+.projects-swiper {
     height: 100%;
     background-image: none;
     z-index: 0;
     padding: 100px 0;
   }
 
-  .news__slide {
+  .projects__slide {
     background: #fff;
     display: flex;
     flex-direction: column;
@@ -50,7 +50,7 @@
 
   }
 
-.news__slide-title {
+.projects__slide-title {
     font-family: 'Monsterrat', sans-serif;
     font-weight: 700;
     font-size: 22px;
@@ -61,12 +61,12 @@
     padding: 30px 20px 0 20px;
 }
 
-.news__slide-img {
+.projects__slide-img {
     width: 100%;
     height: 100%;
 }
 
-.news__slide-description {
+.projects__slide-description {
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     line-height: 25px;
@@ -74,7 +74,7 @@
     padding: 15px 20px 0 20px;
 }
 
-.news__slide-author {
+.projects__slide-author {
     display: flex;
     padding: 40px 20px 30px 20px;
 }
