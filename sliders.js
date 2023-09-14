@@ -6,7 +6,7 @@ let mainSwiper = new Swiper(".main-swiper", {
     },
 
     autoplay: {
-        delay: 4000,
+        delay: 9000,
     },
     loop: true,
   });
